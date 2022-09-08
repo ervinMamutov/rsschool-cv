@@ -64,7 +64,7 @@ function spinWords(string){
 - Ukraine
 - Russian
 - Turkish 
-- English (B1) 
+- English (A2) 
 - Arabic (A2)
 - France (A1)
 
